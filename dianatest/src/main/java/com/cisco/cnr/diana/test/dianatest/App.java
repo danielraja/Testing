@@ -11,6 +11,7 @@ public class App
         System.out.println("Hello World...");
         
         System.out.println("This is Dev1 Git Demo");
-        System.out.println("This is Dev2 Git Demo Comments...");
+        System.out.println("This is Admin Git Demo Comments admin...");
+        System.out.println("Hello by daniel");
     }
 }

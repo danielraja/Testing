@@ -8,8 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println("Deleted unwanted statments...");
-        System.out.println("final level of change from the aDMIN...");
-        System.out.println("Rebase demo - actual developer...");
+        System.out.println("Hello admin");
     }
 }
